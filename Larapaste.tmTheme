@@ -75,7 +75,7 @@
 				<key>background</key>
 				<string>#222222</string>
 				<key>foreground</key>
-				<string>#EEEEEE</string>
+				<string>#D0D0D0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -156,7 +156,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AAAAAA</string>
+				<string>#777777</string>
 			</dict>
 		</dict>
 		<dict>
@@ -324,7 +324,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ Embedded Source</string>
+			<string>♦ Embedded Source.html</string>
 			<key>scope</key>
 			<string>text source</string>
 			<key>settings</key>
@@ -337,11 +337,24 @@
 			<key>name</key>
 			<string>♦ Embedded Source (Bright)</string>
 			<key>scope</key>
-			<string>text.html.ruby source</string>
+			<string>text.html.blade source</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B1B3BA21</string>
+				<string>#1D1D1D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>♦ Support.constant</string>
+			<key>scope</key>
+			<string>support.constant</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFD899</string>
 			</dict>
 		</dict>
 		<dict>
