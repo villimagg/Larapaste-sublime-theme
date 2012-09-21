@@ -238,11 +238,24 @@
 			<key>name</key>
 			<string>Block comment</string>
 			<key>scope</key>
-			<string>source comment.block</string>
+			<string>source comment.block.</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#9B9B9B</string>
+				<string>#292929</string>
+				<key>foreground</key>
+				<string>#626262</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Block comment</string>
+			<key>scope</key>
+			<string>source comment.block.css</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#82857F</string>
 				<key>foreground</key>
 				<string>#626262</string>
 			</dict>
