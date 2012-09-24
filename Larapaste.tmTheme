@@ -204,7 +204,6 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<!-- <string>#CF623E</string> -->
 				<string>#CF623E</string>
 			</dict>
 		</dict>
@@ -229,7 +228,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E57F5D</string>
+                                <!-- <string>#E57F5D</string> -->
+                                <string>#DEBC85</string>
+                                <!-- <string>#FFA36E</string> -->
 			</dict>
 		</dict>
 		<dict>
